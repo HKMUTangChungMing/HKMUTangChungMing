@@ -27,7 +27,7 @@
 
 
 
-
+![ScreenGif.gif](https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif)
 
 
 
