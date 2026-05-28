@@ -8,7 +8,7 @@
 ### Recent releases
 
 <!-- recent_releases starts -->
-[中文](https://github.com/HKMUTangChungMing/shell-Appsfolder) - 2026-05-24
+[中文中文中文中文中文中文中文](https://github.com/HKMUTangChungMing/shell-Appsfolder) - 2026-05-24
 
 </td><td valign="top" width="34%">
 
