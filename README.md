@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acvs&" alt="acvs" /></p>
 
-<a href="https://github.com/HKMUTangChungMing/HKMUTangChungMing/actions"><img src="https://github.com/HKMUTangChungMing/HKMUTangChungMing/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
