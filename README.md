@@ -1,4 +1,5 @@
 ## Hi there 👋
+![ScreenGif.gif](https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif)
 
 <!--
 **HKMUTangChungMing/HKMUTangChungMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
