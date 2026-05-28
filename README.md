@@ -1,4 +1,5 @@
 ## Hi there 👋
+<a href="https://github.com/HKMUTangChungMing/HKMUTangChungMing/actions"><img src="https://github.com/HKMUTangChungMing/HKMUTangChungMing/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 ![ScreenGif.gif](https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif)
 
 <!--
