@@ -1,3 +1,5 @@
+<p align="left" size="100"> <img src="https://komarev.com/ghpvc/?username=hkmutangchungming&label=Profile%20views&color=0e75b6&style=flat" alt="hkmutangchungming" /> </p>
+
 ## Hi there 👋
 
 
@@ -31,7 +33,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hkmutangchungming&label=Profile%20views&color=0e75b6&style=flat" alt="hkmutangchungming" /> </p>
+
 <h3 align="center">Title TESTSSSSSSSSSSSSSSSSSSSSS  000</h3>
 
 
