@@ -3,13 +3,6 @@
 
 
 
-<a href="https://github.com/HKMUTangChungMing/HKMUTangChungMing/actions"><img src="https://github.com/HKMUTangChungMing/HKMUTangChungMing/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
-
-
-
-
-
-
 <!--
 **HKMUTangChungMing/HKMUTangChungMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,3 +35,5 @@ Here are some ideas to get you started:
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acvs&" alt="acvs" /></p>
+
+<a href="https://github.com/HKMUTangChungMing/HKMUTangChungMing/actions"><img src="https://github.com/HKMUTangChungMing/HKMUTangChungMing/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
