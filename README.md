@@ -1,4 +1,6 @@
-<p align="left" size="100"> <img src="https://komarev.com/ghpvc/?username=hkmutangchungming&label=Profile%20views&color=0e75b6&style=flat" alt="hkmutangchungming" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hkmutangchungming&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hkmutangchungming" height="50" />
+</p>
 
 ## Hi there 👋
 
