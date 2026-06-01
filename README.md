@@ -9,43 +9,43 @@
 ### ------  遊戲及平面設計   ------
 
 <!-- recent_releases starts -->
-[[Figma]單簡地設計了一個Figma的界面]()<br>
-[[Html]普通網頁設計(翻牌)]()<br>
-[[3D_MAX]普通3D動畫設計]()<br>
-[[Unity]Game for FYP]()<br>
-[[Html]圖片數像化伊貝主題]()<br>
-[[Unity]飛行員]()<br>
-[[Html]手勢識別技術]()<br>
-[[Unity]控制角色左右行的Game]()<br>
-[[Html]倉韻查詢網頁]()<br>
-[[Html]建立具有無縫背景的網頁]()<br>
+1.[[Figma]單簡地設計了一個Figma的界面]()<br>
+2.[[Html]普通網頁設計(翻牌)]()<br>
+3.[[3D_MAX]普通3D動畫設計]()<br>
+4.[[Unity]Game for FYP]()<br>
+5.[[Html]圖片數像化伊貝主題]()<br>
+6.[[Unity]飛行員]()<br>
+7.[[Html]手勢識別技術]()<br>
+8.[[Unity]控制角色左右行的Game]()<br>
+9.[[Html]倉韻查詢網頁]()<br>
+10.[[Html]建立具有無縫背景的網頁]()<br>
 </td><td valign="top" width="500px">
 
 ### ----- 應用程式設計   --------
 
 <!-- blog starts -->
-[[BlockChain]Hash區塊鏈模組]()<br>
-[[APP_Android]TensorFlow模型Android app]()<br>
-[[APP_Apple]CreateML模型Apple app]()<br>
-[[Micro-bit]MQTT在Micro-bit數據傳輸]()<br>
-[[BlockChain]使用NTF購買圖像]()<br>
-[[APP_Android]Data傳取FireBase]()<br>
-[[WebServer]spring boot網上書店]()<br>
-[[WebServer]Photo相簿]()<br>
+1.[[BlockChain]Hash區塊鏈模組]()<br>
+2.[[APP_Android]TensorFlow模型Android app]()<br>
+3.[[APP_Apple]CreateML模型Apple app]()<br>
+4.[[Micro-bit]MQTT在Micro-bit數據傳輸]()<br>
+5.[[BlockChain]使用NTF購買圖像]()<br>
+6.[[APP_Android]Data傳取FireBase]()<br>
+7.[[WebServer]spring boot網上書店]()<br>
+8.[[WebServer]Photo相簿]()<br>
 
 </td></tr><tr><td valign="top" width="500px">
 
 ### ----- Window操作技巧   --------
 
 <!-- tils starts -->
-[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)<br>
-[[Git]如果使用Git來上傳較大的單個檔案]()<br>
-[[Download]下載超高影片by cookies]()<br>
-[[Bat擴充程式]90度倒轉影片]()<br>
-[[虛擬系統]主機及虛擬機之間傳輸資訊]()<br>
-[[Excel] 如何把Excel對齊]()<br>
-[[CMD]ASCll 模魚程式]()<br>
-[[Window]顯示所有application]()<br>
+1.[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)<br>
+2.[[Git]如果使用Git來上傳較大的單個檔案]()<br>
+3.[[Download]下載超高影片by cookies]()<br>
+4.[[Bat擴充程式]90度倒轉影片]()<br>
+5.[[虛擬系統]主機及虛擬機之間傳輸資訊]()<br>
+6.[[Excel] 如何把Excel對齊]()<br>
+7.[[CMD]ASCll 模魚程式]()<br>
+8.[[Window]顯示所有application]()<br>
 
 </td></tr></table>
 
