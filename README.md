@@ -120,7 +120,7 @@ AI:<br>
 </td>
 
 <td valign="top" width="300px">
-  <img src="https://i.mji.rip/2026/06/01/b742043cd00d913fd7310c65c6d47c20.gif" width="280" alt="ScreenGif">
+  <img src="https://i.mji.rip/2026/06/01/b742043cd00d913fd7310c65c6d47c20.gif" width="230" alt="ScreenGif">
 </td></tr></table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkmutangchungming&" alt="hkmutangchungming" /></p>
