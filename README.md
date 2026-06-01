@@ -127,7 +127,7 @@ System:<br>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br>
 </td><td valign="top" width="34%"></td></tr>
 
-<tr><td valign="top" width="300px">
+<tr><td valign="top" width="0px">
 AI:<br>
 <!-- recent_releases starts -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <br>
