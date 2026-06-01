@@ -135,7 +135,9 @@ AI:<br>
 <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/PowerDreamMing?logo=twitter&style=for-the-badge" alt="PowerDreamMing" /></a> 
 </p>
 
-<audio controls> <source src="example.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-
+      <audio id="audioPlayer" controls>
+            <source src="your-audio-file.mp3" type="audio/mp3">
+            您的瀏覽器不支援 HTML5 音訊標籤。
+        </audio>
 
 
