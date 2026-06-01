@@ -6,7 +6,7 @@
 
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 ### ------  遊戲及平面設計   ------
@@ -36,7 +36,7 @@
 [[WebServer]使用spring boot編寫網上書店]()<br>
 [[WebServer]Photo相簿]()<br>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### --------  Window操作技巧   -------------------------------------------------------------
 
