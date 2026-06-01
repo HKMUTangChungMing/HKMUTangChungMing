@@ -56,7 +56,7 @@
 <text>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
 <img src="https://i.mji.rip/2026/06/01/b689ed90cb9f4a6c0a6a5259991f723f.png" width="100"></div>
 <text>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
-<img src="https://i.mji.rip/2026/06/01/de6f745df475cbe8bd376ab0b9523cba.png" width="100"></div>
+<img src="https://i.mji.rip/2026/06/01/09bfbb5bcfbbe675e45a8befbfba6f7f.png" width="100"></div>
 
 <br>
 <p>
