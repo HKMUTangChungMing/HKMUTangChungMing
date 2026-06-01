@@ -24,10 +24,10 @@
 [[Html]建立具有無縫背景的網頁]()<br>
 </td><td valign="top" width="34%">
 
-### --------  應用程式設計   -------------------------------------------------------------
+### ----- 應用程式設計   --------
 
 <!-- blog starts -->
-[[BlockChain]Hash區塊鏈模組。]()<br>
+[[BlockChain]Hash區塊鏈模組]()<br>
 [[APP_Android]TensorFlow模型Android app]()<br>
 [[APP_Apple]CreateML模型Apple app]()<br>
 [[Micro-bit]MQTT在Micro-bit數據傳輸]()<br>
