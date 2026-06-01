@@ -82,7 +82,7 @@
 
 
 
-<table><tr valign="top" heigth="1000px"><td valign="top" width="300px">
+<table><tr valign="top" height="1000px"><td valign="top" width="300px">
 Application:<br>
 <!-- recent_releases starts -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -110,7 +110,7 @@ HardWare:<br>
 
 
 
-<tr valign="top" heigth="1000px"><td valign="top" width="300px">
+<tr valign="top" height="1000px"><td valign="top" width="300px">
 Design:<br>
 <!-- recent_releases starts -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -132,7 +132,7 @@ System:<br>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br>
 </td></tr>
 
-<tr valign="top" heigth="1000px"><td valign="top" width="300px">
+<tr valign="top" height="1000px"><td valign="top" width="300px">
 AI:<br>
 <!-- recent_releases starts -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <br>
