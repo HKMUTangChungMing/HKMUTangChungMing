@@ -49,7 +49,10 @@
 
 </td></tr></table>
 
-<img style="margin-left: auto; margin-right: 0; width: fit-content;" src="https://i.mji.rip/2026/06/01/459abbde5ec712bc29a4cb7af64e9eb9.png" width="30" alt="ScreenGif">
+<img src="https://i.mji.rip/2026/06/01/459abbde5ec712bc29a4cb7af64e9eb9.png" 
+     width="30" 
+     alt="ScreenGif"
+     style="float: right; margin-left: 10px;">
 <br>
 <img src="https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif" width="230" alt="ScreenGif">
 
