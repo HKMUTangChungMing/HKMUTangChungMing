@@ -50,7 +50,7 @@
 </td></tr></table>
 
 ![ScreenGif.gif](https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif)
-<img src="https://i.mji.rip/2026/06/01/b742043cd00d913fd7310c65c6d47c20.gif" width="400" alt="ScreenGif">
+<img src="https://i.mji.rip/2026/06/01/b742043cd00d913fd7310c65c6d47c20.gif" width="280" alt="ScreenGif">
 
 <h3 align="left">Languages and Tools:</h3>
 
