@@ -136,4 +136,6 @@ AI:<br>
 </p>
 
 
-[qqq.webm](https://github.com/user-attachments/assets/28be9b09-21c4-4746-a02c-eb5fb48dbe9b)
+<!-- 方法A：使用你的附件链接（推荐） -->
+<video src="https://github.com/user-attachments/assets/28be9b09-21c4-4746-a02c-eb5fb48dbe9b" controls width="640" height="auto"></video>
+
