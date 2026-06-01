@@ -28,12 +28,12 @@
 
 <!-- blog starts -->
 [[BlockChain]Hash區塊鏈模組。]()<br>
-[[APP_Android]TensorFlow訓練模型Android app]()<br>
-[[APP_Apple]CreateML訓練模型Apple app]()<br>
-[[Micro-bit]使用MQTT在Micro-bit 實現簡單數據傳輸。]()<br>
-[[BlockChain]BlockChain使用NTF購買『高達』圖像]()<br>
-[[APP_Android]簡單Data傳取-->FireBase]()<br>
-[[WebServer]使用spring boot編寫網上書店]()<br>
+[[APP_Android]TensorFlow模型Android app]()<br>
+[[APP_Apple]CreateML模型Apple app]()<br>
+[[Micro-bit]MQTT在Micro-bit數據傳輸]()<br>
+[[BlockChain]使用NTF購買圖像]()<br>
+[[APP_Android]Data傳取FireBase]()<br>
+[[WebServer]spring boot網上書店]()<br>
 [[WebServer]Photo相簿]()<br>
 
 </td><td valign="top" width="66%">
