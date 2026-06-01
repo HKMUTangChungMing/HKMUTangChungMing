@@ -12,7 +12,7 @@
 ### TESTSSSSSSSSSSSSSSSSSSSSS1
 
 <!-- recent_releases starts -->
-[Test](https://github.com/HKMUTangChungMing/shell-Appsfolder) -<br> 2026-05-24
+[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub) -<br> 2026-05-24
 
 </td><td valign="top" width="34%">
 
