@@ -12,20 +12,45 @@
 ### --------  遊戲及平面設計   -------------------------------------------------------------
 
 <!-- recent_releases starts -->
-[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)
+[[Figma]單簡地設計了一個Figma的界面。]()
+[[Html]普通網頁設計(翻牌)。]()
+[[3D_MAX]普通3D動畫設計。]()
+[[Unity]Game for FYP]()
+[[Html]圖片數像化伊貝主題]()
+[[Unity]飛行員]()
+[[Html]手勢識別技術]()
+[[Unity]明日方舟主題控制角色左右行的Game]()
+[[Html]倉韻查詢網頁]()
+[[Html]建立具有無縫背景的網頁]()
 
 </td><td valign="top" width="34%">
 
 ### --------  應用程式設計   -------------------------------------------------------------
 
 <!-- blog starts -->
-[Test](https://github.com/HKMUTangChungMing/shell-Appsfolder) -<br> 2026-05-24
+[[BlockChain]普通運用Hash的區塊鏈模組。]()
+[[APP_Android]利用TensorFlow訓練的AI模型，套用在 Android app 使用]()
+[[APP_Apple]利用CreateML訓練的AI模型，套用在Xcode 設計的Apple app。]()
+[[Micro-bit]Stream計劃 使用MQTT protocol在Micro-bit 實現簡單數據傳輸。]()
+[[BlockChain]BlockChain使用NTF購買『高達』圖像]()
+[[APP_Android]簡單Data傳取-->FireBase]()
+[[WebServer]使用spring boot編寫網上書店]()
+[[WebServer]Photo相簿]()
+
 </td><td valign="top" width="33%">
 
 ### --------  Window操作技巧   -------------------------------------------------------------
 
 <!-- tils starts -->
-[Test](https://github.com/HKMUTangChungMing/shell-Appsfolder) -<br> 2026-05-24
+[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)
+[[Git]如果使用Git來上傳較大的單個檔案。]()
+[[Download]如何下載B站超高影片涉及cookies]()
+[[Bat擴充程式]90度倒轉影片]()
+[[虛擬系統]創建主機與虛擬系統之間傳輸資訊的橋樑]()
+[[Excel] 如何把Excel對齊]()
+[[CMD]ASCll 模魚程式]()
+[[Window]顯示所有層經安裝過的application]()
+
 </td></tr></table>
 
 
