@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=hkmutangchungming&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hkmutangchungming" height="100" />
 </p>
 
-## Welcome to PowerDreamMing GitHub ~ ~ ~  👋![ScreenGif.gif](https://i.mji.rip/2026/06/01/b3a4239fbc8e7060bd565d71e6a3aaac.gif)
+## Welcome to PowerDreamMing GitHub ~ ~ ~  👋!
 
 <table><tr><td valign="top" width="500px">
 
@@ -51,6 +51,8 @@
 
 ![ScreenGif.gif](https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif)
 <img src="https://i.mji.rip/2026/06/01/b742043cd00d913fd7310c65c6d47c20.gif" width="280" alt="ScreenGif">
+<img src="https://i.mji.rip/2026/06/01/b3a4239fbc8e7060bd565d71e6a3aaac.gif" width="280" alt="ScreenGif">
+
 
 <h3 align="left">Languages and Tools:</h3>
 
