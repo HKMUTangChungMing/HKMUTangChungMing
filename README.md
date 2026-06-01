@@ -41,14 +41,14 @@
 ### --------  Window操作技巧   -------------------------------------------------------------
 
 <!-- tils starts -->
-[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)
-[[Git]如果使用Git來上傳較大的單個檔案。]()
-[[Download]如何下載B站超高影片涉及cookies]()
-[[Bat擴充程式]90度倒轉影片]()
-[[虛擬系統]創建主機與虛擬系統之間傳輸資訊的橋樑]()
-[[Excel] 如何把Excel對齊]()
-[[CMD]ASCll 模魚程式]()
-[[Window]顯示所有層經安裝過的application]()
+[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)<br>
+[[Git]如果使用Git來上傳較大的單個檔案。]()<br>
+[[Download]如何下載B站超高影片涉及cookies]()<br>
+[[Bat擴充程式]90度倒轉影片]()<br>
+[[虛擬系統]創建主機與虛擬系統之間傳輸資訊的橋樑]()<br>
+[[Excel] 如何把Excel對齊]()<br>
+[[CMD]ASCll 模魚程式]()<br>
+[[Window]顯示所有層經安裝過的application]()<br>
 
 </td></tr></table>
 
