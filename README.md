@@ -93,7 +93,7 @@ Application:<br>
 </td>
 
   
-<td valign="top" width="34%">
+<td valign="top" width="300px">
 Mobile Application:<br>
 <!-- recent_releases starts -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -102,7 +102,7 @@ Mobile Application:<br>
 </td>
 
 
-<td valign="top" width="34%">
+<td valign="top" width="300px">
 HardWare:<br>
 <!-- recent_releases starts -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <br>
@@ -119,7 +119,7 @@ Design:<br>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <br>
 </td>
   
-<td valign="top" width="34%">
+<td valign="top" width="300px">
 DataBase:<br>
 <!-- recent_releases starts -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -132,11 +132,11 @@ System:<br>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br>
 </td></tr>
 
-<tr><td valign="top" width="0px">
+<tr><td valign="top" width="300px">
 AI:<br>
 <!-- recent_releases starts -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <br>
-</td><td valign="top" width="34%">
+</td><td valign="top" width="300px">
 
 
  Game:<br>
@@ -145,7 +145,7 @@ AI:<br>
 </td>
 
 
-<td valign="top" width="34%">
+<td valign="top" width="300px">
 
 </td></tr>
 
