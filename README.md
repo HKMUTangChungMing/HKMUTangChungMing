@@ -54,8 +54,9 @@
 
 
 <br>
+<p>
 <img src="https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif" width="200" alt="ScreenGif"><img src="https://i.mji.rip/2026/06/01/2b298b404718fdc30b23776676b19036.gif" width="200" alt="ScreenGif"><img src="https://i.mji.rip/2026/06/01/2d78575c0b3aa57cb45869123936593c.gif" width="200" alt="ScreenGif"><img src="https://i.mji.rip/2026/06/01/7821e69df81f2184d12a1a8cad4381b4.gif" width="200" alt="ScreenGif">
-
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
