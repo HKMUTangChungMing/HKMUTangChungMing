@@ -105,7 +105,7 @@ HardWare:<br>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <br>
 </td><td valign="top" width="34%"></td></tr>
 
-<tr><td valign="top" width="50%">
+<tr><td valign="top" width="300px">
 Design:<br>
 <!-- recent_releases starts -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -127,7 +127,7 @@ System:<br>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br>
 </td><td valign="top" width="34%"></td></tr>
 
-<tr><td valign="top" width="33%">
+<tr><td valign="top" width="300px">
 AI:<br>
 <!-- recent_releases starts -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <br>
