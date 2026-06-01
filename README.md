@@ -14,11 +14,11 @@
 3.[[3D_MAX]普通3D動畫設計](https://github.com/HKMUTangChungMing/3ds-max)<br>
 4.[[Unity]Game for FYP](https://github.com/HKMUTangChungMing/FYP_EducationGame_Unity)『Private』<br>
 5.[[Html]圖片數像化伊貝主題](https://github.com/HKMUTangChungMing/Eevee-s-Stock-Image-Collection-main)<br>
-6.[[Unity]飛行員](https://github.com/HKMUTangChungMing/Lappland-arknights-of-pilot-main)<br>
+6.[[Unity]飛行員](https://github.com/HKMUTangChungMing/Lappland-arknights-of-pilot-main)『Private』<br>
 7.[[Html]手勢識別技術](https://github.com/HKMUTangChungMing/Hand_Gesture_Recognition_BASE)<br>
-8.[[Unity]控制角色左右行的Game](https://github.com/HKMUTangChungMing/Running__Lappland)<br>
+8.[[Unity]控制角色左右行的Game](https://github.com/HKMUTangChungMing/Running__Lappland)『Private』<br>
 9.[[Html]倉韻查詢網頁](https://github.com/HKMUTangChungMing/Cangjie-Keyboard-Input-Method)<br>
-10.[[Html]建立具有無縫背景的網頁](https://github.com/HKMUTangChungMing/Create-a-webpage-with-a-seamless-background)<br>
+10.[[Html]建立具有無縫背景的網頁](https://github.com/HKMUTangChungMing/Create-a-webpage-with-a-seamless-background)『Private』<br>
 </td><td valign="top" width="500px">
 
 ### ----- 應用程式設計   --------
@@ -31,7 +31,7 @@
 5.[[BlockChain]使用NTF購買圖像](https://github.com/HKMUTangChungMing/DAPP_Gundam-BlockChain_Group5-main)<br>
 6.[[APP_Android]Data傳取FireBase](https://github.com/HKMUTangChungMing/AndroidStudio_FireBase)<br>
 7.[[WebServer]spring boot網上書店](https://github.com/HKMUTangChungMing/Online-Book-Store-Using-Spring-Boot-)<br>
-8.[[WebServer]Photo相簿](https://github.com/HKMUTangChungMing/Photography)<br>
+8.[[WebServer]Photo相簿](https://github.com/HKMUTangChungMing/Photography)『Private』<br>
 
 </td></tr><tr><td valign="top" width="500px">
 
