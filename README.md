@@ -50,7 +50,7 @@
 </td></tr></table>
 
 <img src="https://i.mji.rip/2026/06/01/459abbde5ec712bc29a4cb7af64e9eb9.png" 
-     width="30" 
+     width="100" 
      alt="ScreenGif"
      style="margin-left: auto; margin-right: 0; display: block;">
 <br>
