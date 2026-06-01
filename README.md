@@ -36,7 +36,7 @@
 [[WebServer]使用spring boot編寫網上書店]()<br>
 [[WebServer]Photo相簿]()<br>
 
-</td><td valign="top" width="60%">
+</td><td valign="top" width="66%">
 
 ### --------  Window操作技巧   -------------------------------------------------------------
 
