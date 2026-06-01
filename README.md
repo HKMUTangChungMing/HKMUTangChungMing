@@ -13,7 +13,9 @@
 
 <!-- recent_releases starts -->
 [[Figma]單簡地設計了一個Figma的界面。]()
+<br>
 [[Html]普通網頁設計(翻牌)。]()
+<br>
 [[3D_MAX]普通3D動畫設計。]()
 [[Unity]Game for FYP]()
 [[Html]圖片數像化伊貝主題]()
