@@ -49,7 +49,7 @@
 
 </td></tr></table>
 
-<div  style="text-align: right; margin-right: 35px;"><img src="https://i.mji.rip/2026/06/01/459abbde5ec712bc29a4cb7af64e9eb9.png" width="100" align="center"></div>
+<div  style="text-align: right;"><img src="https://i.mji.rip/2026/06/01/459abbde5ec712bc29a4cb7af64e9eb9.png" width="100" align="center"></div>
 <br>
 <img src="https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif" width="230" alt="ScreenGif">
 
