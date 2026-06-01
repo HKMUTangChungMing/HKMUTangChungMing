@@ -4,7 +4,7 @@
 
 ## Welcome to PowerDreamMing GitHub ~ ~ ~  👋
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="500px">
 
 ### ------  遊戲及平面設計   ------
 
@@ -19,7 +19,7 @@
 [[Unity]控制角色左右行的Game]()<br>
 [[Html]倉韻查詢網頁]()<br>
 [[Html]建立具有無縫背景的網頁]()<br>
-</td><td valign="top" width="34%">
+</td><td valign="top" width="500px">
 
 ### ----- 應用程式設計   --------
 
@@ -33,7 +33,7 @@
 [[WebServer]spring boot網上書店]()<br>
 [[WebServer]Photo相簿]()<br>
 
-</td></tr><tr><td valign="top" width="66%">
+</td></tr><tr><td valign="top" width="500px">
 
 ### ----- Window操作技巧   --------
 
