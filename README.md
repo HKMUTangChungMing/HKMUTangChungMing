@@ -52,11 +52,8 @@
 <div align="right"><img src="https://i.mji.rip/2026/06/01/459abbde5ec712bc29a4cb7af64e9eb9.png" width="100"></div>
 <br>
 <img src="https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif" width="230" alt="ScreenGif">
-<div style="text-align: right; margin-right: 35px;">
-  <p>你的文字</p>
-</div>
-<p style="text-align: right; margin-right: 30px;">
-  Hello World，這段文字會靠右一點
+<p style="text-align: right; margin: 10px 40px 15px 0;">
+  你的文字內容
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
