@@ -2,14 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=hkmutangchungming&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hkmutangchungming" height="100" />
 </p>
 
-
 ## Welcome to PowerDreamMing GitHub ~ ~ ~  👋
 
-
-
 <table><tr><td valign="top" width="33%">
-
-
 
 ### ------  遊戲及平面設計   ------
 
@@ -54,28 +49,7 @@
 
 </td></tr></table>
 
-
-
-
 ![ScreenGif.gif](https://i.mji.rip/2026/05/28/ece9c41cc2e8bd6fa1f2fe1e8e78cdd7.gif)
-
-
-
-
-<h3 align="center">Title TESTSSSSSSSSSSSSSSSSSSSSS  000</h3>
-
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/powerdreammingx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="powerdreammingx" height="30" width="40" /></a>
-</p><p align="left"> <a href="https://twitter.com/powerdreammingx" target="blank"><img src="https://img.shields.io/twitter/follow/powerdreammingx?logo=twitter&style=for-the-badge" alt="powerdreammingx" /></a> </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -138,23 +112,18 @@ AI:<br>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <br>
 </td><td valign="top" width="300px">
 
-
  Game:<br>
 <!-- recent_releases starts -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p><br>
 </td>
 
-
 <td valign="top" width="300px">
-
-</td></tr>
-
-</table>
-
-
-
+</td></tr></table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkmutangchungming&" alt="hkmutangchungming" /></p>
 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/powerdreammingx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="powerdreammingx" height="30" width="40" /></a>
+</p><p align="left"> <a href="https://twitter.com/powerdreammingx" target="blank"><img src="https://img.shields.io/twitter/follow/powerdreammingx?logo=twitter&style=for-the-badge" alt="powerdreammingx" /></a> </p>
