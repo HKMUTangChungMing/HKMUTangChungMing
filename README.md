@@ -27,14 +27,14 @@
 ### --------  應用程式設計   -------------------------------------------------------------
 
 <!-- blog starts -->
-[[BlockChain]普通運用Hash的區塊鏈模組。]()
-[[APP_Android]利用TensorFlow訓練的AI模型，套用在 Android app 使用]()
-[[APP_Apple]利用CreateML訓練的AI模型，套用在Xcode 設計的Apple app。]()
-[[Micro-bit]Stream計劃 使用MQTT protocol在Micro-bit 實現簡單數據傳輸。]()
-[[BlockChain]BlockChain使用NTF購買『高達』圖像]()
-[[APP_Android]簡單Data傳取-->FireBase]()
-[[WebServer]使用spring boot編寫網上書店]()
-[[WebServer]Photo相簿]()
+[[BlockChain]Hash區塊鏈模組。]()<br>
+[[APP_Android]TensorFlow訓練模型Android app]()<br>
+[[APP_Apple]CreateML訓練模型Apple app]()<br>
+[[Micro-bit]使用MQTT在Micro-bit 實現簡單數據傳輸。]()<br>
+[[BlockChain]BlockChain使用NTF購買『高達』圖像]()<br>
+[[APP_Android]簡單Data傳取-->FireBase]()<br>
+[[WebServer]使用spring boot編寫網上書店]()<br>
+[[WebServer]Photo相簿]()<br>
 
 </td><td valign="top" width="33%">
 
