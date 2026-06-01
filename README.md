@@ -38,7 +38,7 @@
 
 </td><td valign="top" width="66%">
 
-### --------  Window操作技巧   -------------------------------------------------------------
+### ----- Window操作技巧   --------
 
 <!-- tils starts -->
 [[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)<br>
