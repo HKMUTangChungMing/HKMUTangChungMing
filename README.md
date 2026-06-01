@@ -135,9 +135,5 @@ AI:<br>
 <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/PowerDreamMing?logo=twitter&style=for-the-badge" alt="PowerDreamMing" /></a> 
 </p>
 
-      <audio id="audioPlayer" controls>
-            <source src="your-audio-file.mp3" type="audio/mp3">
-            您的瀏覽器不支援 HTML5 音訊標籤。
-        </audio>
 
-
+[qqq.webm](https://github.com/user-attachments/assets/28be9b09-21c4-4746-a02c-eb5fb48dbe9b)
