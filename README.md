@@ -20,6 +20,7 @@
 9.[[Html]倉韻查詢網頁](https://github.com/HKMUTangChungMing/Cangjie-Keyboard-Input-Method)<br>
 10.[[Html]建立具有無縫背景的網頁](https://github.com/HKMUTangChungMing/Create-a-webpage-with-a-seamless-background)『Private』<br>
 11.[[Html]Gif轉成ascii圖像網頁](https://github.com/HKMUTangChungMing/gif_to_ascii_export_html)<br>
+12.[[Html]重複中文字標色工具](https://github.com/HKMUTangChungMing/Repeat-Chinese-character-coloring-tool)<br>
 </td><td valign="top" width="500px">
 
 ### ----- 應用程式設計   --------
