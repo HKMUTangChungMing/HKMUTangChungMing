@@ -9,7 +9,7 @@
 ### ------  遊戲及平面設計   ------
 
 <!-- recent_releases starts -->
-1.[[Figma]單簡地設計了一個Figma的界面](https://github.com/HKMUTangChungMing/Figma)<br>
+1.[[Figma]簡單地設計了一個Figma的界面](https://github.com/HKMUTangChungMing/Figma)<br>
 2.[[Html]普通網頁設計(翻牌)](https://github.com/HKMUTangChungMing/SampleCard_Website)<br>
 3.[[3D_MAX]普通3D動畫設計](https://github.com/HKMUTangChungMing/3ds-max)<br>
 4.[[Unity]Game for FYP](https://github.com/HKMUTangChungMing/FYP_EducationGame_Unity)『Private』<br>
