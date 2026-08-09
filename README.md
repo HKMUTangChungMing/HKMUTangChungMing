@@ -9,14 +9,9 @@
 ### ------  前端設計   ------
 
 <!-- recent_releases starts -->
-1.[[Figma]簡單地設計了一個Figma的界面](https://github.com/HKMUTangChungMing/Figma)<br>
 2.[[Html]普通網頁設計(翻牌)](https://github.com/HKMUTangChungMing/SampleCard_Website)<br>
-3.[[3D_MAX]普通3D動畫設計](https://github.com/HKMUTangChungMing/3ds-max)<br>
-4.[[Unity]Game for FYP](https://github.com/HKMUTangChungMing/FYP_EducationGame_Unity)『Private』<br>
 5.[[Html]圖片數像化伊貝主題](https://github.com/HKMUTangChungMing/Eevee-s-Stock-Image-Collection-main)<br>
-6.[[Unity]飛行員](https://github.com/HKMUTangChungMing/Lappland-arknights-of-pilot-main)『Private』<br>
 7.[[Html]手勢識別技術](https://github.com/HKMUTangChungMing/Hand_Gesture_Recognition_BASE)<br>
-8.[[Unity]控制角色左右行的Game](https://github.com/HKMUTangChungMing/Running__Lappland)『Private』<br>
 9.[[Html]倉韻查詢網頁](https://github.com/HKMUTangChungMing/Cangjie-Keyboard-Input-Method)<br>
 10.[[Html]建立具有無縫背景的網頁](https://github.com/HKMUTangChungMing/Create-a-webpage-with-a-seamless-background)『Private』<br>
 11.[[Html]Gif轉成ascii圖像網頁](https://github.com/HKMUTangChungMing/gif_to_ascii_export_html)<br>
@@ -33,9 +28,9 @@
 2.[[APP_Android]TensorFlow模型Android app](https://github.com/HKMUTangChungMing/FruitModel_TensorFlow_AndroidStudio)<br>
 3.[[APP_Apple]CreateML模型Apple app](https://github.com/HKMUTangChungMing/Swift_Food-Intake-Recorder)<br>
 4.[[Micro-bit]MQTT在Micro-bit數據傳輸](https://github.com/HKMUTangChungMing/Micro-bit_HIVEMQ_MQTT)<br>
-5.[[BlockChain]使用NTF購買圖像](https://github.com/HKMUTangChungMing/DAPP_Gundam-BlockChain_Group5-main)<br>
+
 6.[[APP_Android]Data傳取FireBase](https://github.com/HKMUTangChungMing/AndroidStudio_FireBase)<br>
-7.[[WebServer]spring boot網上書店](https://github.com/HKMUTangChungMing/Online-Book-Store-Using-Spring-Boot-)<br>
+
 8.[[WebServer]Photo相簿](https://github.com/HKMUTangChungMing/Photography)『Private』<br>
 
 </td></tr><tr><td valign="top" width="500px">
@@ -65,10 +60,10 @@
 </td></tr><tr><td valign="top" width="500px">
 
 ### ----- 遊戲設計   --------
+3.[[3D_MAX]普通3D動畫設計](https://github.com/HKMUTangChungMing/3ds-max)<br>
 
-
-
-
+6.[[Unity]飛行員](https://github.com/HKMUTangChungMing/Lappland-arknights-of-pilot-main)『Private』<br>
+8.[[Unity]控制角色左右行的Game](https://github.com/HKMUTangChungMing/Running__Lappland)『Private』<br>
 
 
 
@@ -76,10 +71,10 @@
 
 
 
-### ----- ???   --------
-
-
-
+### ----- 學校成品project   --------
+7.[[COMPS380F --- WebServer]spring boot網上書店](https://github.com/HKMUTangChungMing/Online-Book-Store-Using-Spring-Boot-)<br>
+5.[[ELECS431F --- BlockChain]使用NTF購買圖像](https://github.com/HKMUTangChungMing/DAPP_Gundam-BlockChain_Group5-main)<br>
+4.[[COMP S456F --- Unity]Game for FYP](https://github.com/HKMUTangChungMing/FYP_EducationGame_Unity)『Private』<br>
 
 
 
