@@ -9,14 +9,14 @@
 ### ------  前端設計   ------
 
 <!-- recent_releases starts -->
-2.[[Html]普通網頁設計(翻牌)](https://github.com/HKMUTangChungMing/SampleCard_Website)<br>
-5.[[Html]圖片數像化伊貝主題](https://github.com/HKMUTangChungMing/Eevee-s-Stock-Image-Collection-main)<br>
-7.[[Html]手勢識別技術](https://github.com/HKMUTangChungMing/Hand_Gesture_Recognition_BASE)<br>
-9.[[Html]倉韻查詢網頁](https://github.com/HKMUTangChungMing/Cangjie-Keyboard-Input-Method)<br>
+2.[[Html]普通網頁設計(翻牌)](https://github.com/HKMUTangChungMing/SampleCard_Website)『Private』<br>
+5.[[Html]圖片數像化伊貝主題](https://github.com/HKMUTangChungMing/Eevee-s-Stock-Image-Collection-main)『Private』<br>
+7.[[Html]手勢識別技術](https://github.com/HKMUTangChungMing/Hand_Gesture_Recognition_BASE)『Private』<br>
+9.[[Html]倉韻查詢網頁](https://github.com/HKMUTangChungMing/Cangjie-Keyboard-Input-Method)『Private』<br>
 10.[[Html]建立具有無縫背景的網頁](https://github.com/HKMUTangChungMing/Create-a-webpage-with-a-seamless-background)『Private』<br>
-11.[[Html]Gif轉成ascii圖像網頁](https://github.com/HKMUTangChungMing/gif_to_ascii_export_html)<br>
-12.[[Html]重複中文字標色工具](https://github.com/HKMUTangChungMing/Repeat-Chinese-character-coloring-tool)<br>
-13.[[Html]PNG轉ICO--bat檔](https://github.com/HKMUTangChungMing/onvert_png_to_ico)<br>
+11.[[Html]Gif轉成ascii圖像網頁](https://github.com/HKMUTangChungMing/gif_to_ascii_export_html)『Private』<br>
+12.[[Html]重複中文字標色工具](https://github.com/HKMUTangChungMing/Repeat-Chinese-character-coloring-tool)『Private』<br>
+13.[[Html]PNG轉ICO--bat檔](https://github.com/HKMUTangChungMing/onvert_png_to_ico)『Private』<br>
 
 
 </td><td valign="top" width="500px">
@@ -24,11 +24,11 @@
 ### ----- 應用程式設計   --------
 
 <!-- blog starts -->
-1.[[BlockChain]Hash區塊鏈模組](https://github.com/HKMUTangChungMing/BlockChain-Sample-Using-Go-React)<br>
-2.[[APP_Android]TensorFlow模型Android app](https://github.com/HKMUTangChungMing/FruitModel_TensorFlow_AndroidStudio)<br>
-3.[[APP_Apple]CreateML模型Apple app](https://github.com/HKMUTangChungMing/Swift_Food-Intake-Recorder)<br>
-4.[[Micro-bit]MQTT在Micro-bit數據傳輸](https://github.com/HKMUTangChungMing/Micro-bit_HIVEMQ_MQTT)<br>
-6.[[APP_Android]Data傳取FireBase](https://github.com/HKMUTangChungMing/AndroidStudio_FireBase)<br>
+1.[[BlockChain]Hash區塊鏈模組](https://github.com/HKMUTangChungMing/BlockChain-Sample-Using-Go-React)『Private』<br>
+2.[[APP_Android]TensorFlow模型Android app](https://github.com/HKMUTangChungMing/FruitModel_TensorFlow_AndroidStudio)『Private』<br>
+3.[[APP_Apple]CreateML模型Apple app](https://github.com/HKMUTangChungMing/Swift_Food-Intake-Recorder)『Private』<br>
+4.[[Micro-bit]MQTT在Micro-bit數據傳輸](https://github.com/HKMUTangChungMing/Micro-bit_HIVEMQ_MQTT)『Private』<br>
+6.[[APP_Android]Data傳取FireBase](https://github.com/HKMUTangChungMing/AndroidStudio_FireBase)『Private』<br>
 8.[[WebServer]Photo相簿](https://github.com/HKMUTangChungMing/Photography)『Private』<br>
 
 </td></tr><tr><td valign="top" width="500px">
@@ -38,12 +38,12 @@
 <!-- tils starts -->
 1.[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)<br>
 2.[[Git]如果使用Git來上傳較大的單個檔案](https://github.com/HKMUTangChungMing/Git)<br>
-3.[[Download]下載超高影片by cookies](https://github.com/HKMUTangChungMing/Use-Bilibili-account-to-Download-the-4K-Video-main)<br>
-4.[[Bat擴充程式]90度倒轉影片](https://github.com/HKMUTangChungMing/How_to_rotation_the_mp4_file-main)<br>
-5.[[虛擬系統]主機及虛擬機之間傳輸資訊](https://github.com/HKMUTangChungMing/How-to-share-the-files-between-VirtualBox-and-HostDesktop-main)<br>
-6.[[Excel] 如何把Excel對齊](https://github.com/HKMUTangChungMing/How-do-I-make-a-very-crowded-spreadsheet-look-neat-and-organized-)<br>
-7.[[CMD]ASCll 模魚程式](https://github.com/HKMUTangChungMing/Infinite-moyu-ASCII-stacking)<br>
-8.[[Window]顯示所有application](https://github.com/HKMUTangChungMing/shell-Appsfolder)<br>
+3.[[Download]下載超高影片by cookies](https://github.com/HKMUTangChungMing/Use-Bilibili-account-to-Download-the-4K-Video-main)『Private』<br>
+4.[[Bat擴充程式]90度倒轉影片](https://github.com/HKMUTangChungMing/How_to_rotation_the_mp4_file-main)『Private』<br>
+5.[[虛擬系統]主機及虛擬機之間傳輸資訊](https://github.com/HKMUTangChungMing/How-to-share-the-files-between-VirtualBox-and-HostDesktop-main)『Private』<br>
+6.[[Excel] 如何把Excel對齊](https://github.com/HKMUTangChungMing/How-do-I-make-a-very-crowded-spreadsheet-look-neat-and-organized-)『Private』<br>
+7.[[CMD]ASCll 模魚程式](https://github.com/HKMUTangChungMing/Infinite-moyu-ASCII-stacking)『Private』<br>
+8.[[Window]顯示所有application](https://github.com/HKMUTangChungMing/shell-Appsfolder)『Private』<br>
 
 </td><td valign="top" width="500px">
 
@@ -51,14 +51,14 @@
 ### ----- BIG Project for MySelf  --------
 
 <!-- blog starts -->
-1.[[BIG Project] mongodb](https://github.com/HKMUTangChungMing/-BIG_PROJECT-mongodb_website)<br>
-2.[[BIG Project] blockchain](https://github.com/HKMUTangChungMing/-BIG_PROJECT-blockchain_website)<br>
+1.[[BIG Project] mongodb](https://github.com/HKMUTangChungMing/-BIG_PROJECT-mongodb_website)『Private』<br>
+2.[[BIG Project] blockchain](https://github.com/HKMUTangChungMing/-BIG_PROJECT-blockchain_website)『Private』<br>
 
 
 </td></tr><tr><td valign="top" width="500px">
 
 ### ----- 遊戲設計   --------
-3.[[3D_MAX]普通3D動畫設計](https://github.com/HKMUTangChungMing/3ds-max)<br>
+3.[[3D_MAX]普通3D動畫設計](https://github.com/HKMUTangChungMing/3ds-max)『Private』<br>
 6.[[Unity]飛行員](https://github.com/HKMUTangChungMing/Lappland-arknights-of-pilot-main)『Private』<br>
 8.[[Unity]控制角色左右行的Game](https://github.com/HKMUTangChungMing/Running__Lappland)『Private』<br>
 
@@ -69,8 +69,8 @@
 
 
 ### ----- 學校成品project   --------
-7.[[COMPS380F --- WebServer]spring boot網上書店](https://github.com/HKMUTangChungMing/Online-Book-Store-Using-Spring-Boot-)<br>
-5.[[ELECS431F --- BlockChain]使用NTF購買圖像](https://github.com/HKMUTangChungMing/DAPP_Gundam-BlockChain_Group5-main)<br>
+7.[[COMPS380F --- WebServer]spring boot網上書店](https://github.com/HKMUTangChungMing/Online-Book-Store-Using-Spring-Boot-)『Private』<br>
+5.[[ELECS431F --- BlockChain]使用NTF購買圖像](https://github.com/HKMUTangChungMing/DAPP_Gundam-BlockChain_Group5-main)『Private』<br>
 4.[[COMP S456F --- Unity]Game for FYP](https://github.com/HKMUTangChungMing/FYP_EducationGame_Unity)『Private』<br>
 
 
