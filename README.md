@@ -6,7 +6,7 @@
 
 <table><tr><td valign="top" width="500px">
 
-### ------  遊戲及平面設計   ------
+### ------  前端設計   ------
 
 <!-- recent_releases starts -->
 1.[[Figma]簡單地設計了一個Figma的界面](https://github.com/HKMUTangChungMing/Figma)<br>
@@ -60,6 +60,21 @@
 <!-- blog starts -->
 1.[[BIG Project] mongodb](https://github.com/HKMUTangChungMing/-BIG_PROJECT-mongodb_website)<br>
 2.[[BIG Project] blockchain](https://github.com/HKMUTangChungMing/-BIG_PROJECT-blockchain_website)<br>
+
+
+
+### ----- 遊戲設計   --------
+
+<!-- tils starts -->
+
+
+</td><td valign="top" width="500px">
+
+
+### -----    --------
+
+<!-- blog starts -->
+
 
 </td></tr></table>
 
