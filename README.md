@@ -28,9 +28,7 @@
 2.[[APP_Android]TensorFlow模型Android app](https://github.com/HKMUTangChungMing/FruitModel_TensorFlow_AndroidStudio)<br>
 3.[[APP_Apple]CreateML模型Apple app](https://github.com/HKMUTangChungMing/Swift_Food-Intake-Recorder)<br>
 4.[[Micro-bit]MQTT在Micro-bit數據傳輸](https://github.com/HKMUTangChungMing/Micro-bit_HIVEMQ_MQTT)<br>
-
 6.[[APP_Android]Data傳取FireBase](https://github.com/HKMUTangChungMing/AndroidStudio_FireBase)<br>
-
 8.[[WebServer]Photo相簿](https://github.com/HKMUTangChungMing/Photography)『Private』<br>
 
 </td></tr><tr><td valign="top" width="500px">
