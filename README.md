@@ -1,4 +1,4 @@
-![PowerDreamMing](https://img.shields.io/endpoint?url=https://red-salad-6a9c.hellohi888999666.workers.dev/?username=hkmutangchungming)
+![](https://img.shields.io/endpoint?url=https://red-salad-6a9c.hellohi888999666.workers.dev/?username=hkmutangchungming)
 ## Welcome to PowerDreamMing GitHub ~ ~ ~  👋!
 
 <table><tr><td valign="top" width="500px">
