@@ -1,9 +1,3 @@
-
-![PowerDreamMing](https://komarev.com/ghpvc/?username=hkmutangchungming&label=PowerDreamMing&style=for-the-badge&color=0e75b6)
-
-
-
-
 ![PowerDreamMing](https://img.shields.io/endpoint?url=https://powerdreamming-counter.hellohi888999666.workers.dev/?username=hkmutangchungming)
 ## Welcome to PowerDreamMing GitHub ~ ~ ~  👋!
 
