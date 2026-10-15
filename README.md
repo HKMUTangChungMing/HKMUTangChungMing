@@ -1,7 +1,4 @@
 ![PowerDreamMing](https://img.shields.io/endpoint?url=https://red-salad-6a9c.hellohi888999666.workers.dev/?username=HKMUTangChungMing&cacheSeconds=0)
-
-
-![PowerDreamMing](https://img.shields.io/endpoint?url=https://red-salad-6a9c.hellohi888999666.workers.dev/?username=HKMUTangChungMing&cacheSeconds=0)
 ## Welcome to PowerDreamMing GitHub ~ ~ ~  👋!
 
 <table><tr><td valign="top" width="500px">
