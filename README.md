@@ -27,7 +27,6 @@
 04.[[Micro-bit]MQTT在Micro-bit數據傳輸](https://github.com/HKMUTangChungMing/Micro-bit_HIVEMQ_MQTT)『Private』<br>
 05.[[APP_Android]Data傳取FireBase](https://github.com/HKMUTangChungMing/AndroidStudio_FireBase)『Private』<br>
 06.[[WebServer]Photo相簿](https://github.com/HKMUTangChungMing/Photography)『Private』<br>
-07.[[Windows app]McDull_DeskCloth](https://github.com/HKMUTangChungMing/McDull_DeskCloth)『Private』<br>
 
 </td></tr><tr><td valign="top" width="500px">
 
