@@ -1,6 +1,6 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hkmutangchungming&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hkmutangchungming" height="101" />
-</p>
+
+  <img src="https://komarev.com/ghpvc/?username=hkmutangchungming&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hkmutangchungming" height="100" />
+
 
 ## Welcome to PowerDreamMing GitHub ~ ~ ~  👋!
 
@@ -178,8 +178,5 @@ AI:<br>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="PowerDreamMing" height="30" width="40" /></a>
 <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/PowerDreamMing?logo=twitter&style=for-the-badge" alt="PowerDreamMing" /></a> 
 </p>
-
-![cccc](http://pdm888.oss-cn-beijing.aliyuncs.com/img/cccc.png)
-
 
 
