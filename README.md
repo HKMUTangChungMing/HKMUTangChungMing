@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=hkmutangchungming&style=for-the-badge&color=0e75b6)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=hkmutangchungming)
 
 
 ## Welcome to PowerDreamMing GitHub ~ ~ ~  👋!
