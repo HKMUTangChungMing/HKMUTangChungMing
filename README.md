@@ -1,7 +1,4 @@
 ![PowerDreamMing](https://komarev.com/ghpvc/?username=hkmutangchungming&label=PowerDreamMing&color=0e75b6&style=for-the-badge)
-
-![PowerDreamMing](https://visitor-badge.laobi.icu/badge?page_id=hkmutangchungming)
-
 ## Welcome to PowerDreamMing GitHub ~ ~ ~  👋!
 
 <table><tr><td valign="top" width="500px">
