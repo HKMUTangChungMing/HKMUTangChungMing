@@ -14,6 +14,7 @@
 06.[[Html]Gif轉成ascii圖像網頁](https://github.com/HKMUTangChungMing/gif_to_ascii_export_html)『Private』<br>
 07.[[Html]重複中文字標色工具](https://github.com/HKMUTangChungMing/Repeat-Chinese-character-coloring-tool)『Private』<br>
 08.[[Html]PNG轉ICO--bat檔](https://github.com/HKMUTangChungMing/onvert_png_to_ico)『Private』<br>
+09.[[Windows APP]夾公仔機](https://github.com/HKMUTangChungMing/Chiikawa_Claw-Machine)『Public』<br>
 
 
 </td><td valign="top" width="500px">
@@ -27,14 +28,18 @@
 04.[[Micro-bit]MQTT在Micro-bit數據傳輸](https://github.com/HKMUTangChungMing/Micro-bit_HIVEMQ_MQTT)『Private』<br>
 05.[[APP_Android]Data傳取FireBase](https://github.com/HKMUTangChungMing/AndroidStudio_FireBase)『Private』<br>
 06.[[WebServer]Photo相簿](https://github.com/HKMUTangChungMing/Photography)『Private』<br>
+07.[[Windows APP]Chiikawa_DeskCloth桌布](https://github.com/HKMUTangChungMing/Chiikawa_DeskCloth)『Public』<br>
+08.[[Windows APP]McDull_DeskCloth桌布](https://github.com/HKMUTangChungMing/McDull_DeskCloth)『Public』<br>
+09.[[Windows APP]Hachiware_DeskCloth桌布](https://github.com/HKMUTangChungMing/Hachiware_DeskCloth)『Public』<br>
+
 
 </td></tr><tr><td valign="top" width="500px">
 
 ### ----- Window操作技巧   --------
 
 <!-- tils starts -->
-01.[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)<br>
-02.[[Git]如果使用Git來上傳較大的單個檔案](https://github.com/HKMUTangChungMing/Git)<br>
+01.[[GitHub]如果使用GitHub及GitHub Desktop](https://github.com/HKMUTangChungMing/GitHub)『Public』<br>
+02.[[Git]如果使用Git來上傳較大的單個檔案](https://github.com/HKMUTangChungMing/Git)『Public』<br>
 03.[[Download]下載超高影片by cookies](https://github.com/HKMUTangChungMing/Use-Bilibili-account-to-Download-the-4K-Video-main)『Private』<br>
 04.[[---]---『Private』<br>
 05.[[虛擬系統]主機及虛擬機之間傳輸資訊](https://github.com/HKMUTangChungMing/How-to-share-the-files-between-VirtualBox-and-HostDesktop-main)『Private』<br>
