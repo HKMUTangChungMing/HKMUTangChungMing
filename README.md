@@ -14,7 +14,7 @@
 06.[[Html]Gif轉成ascii圖像網頁](https://github.com/HKMUTangChungMing/gif_to_ascii_export_html)『Private』<br>
 07.[[Html]重複中文字標色工具](https://github.com/HKMUTangChungMing/Repeat-Chinese-character-coloring-tool)『Private』<br>
 08.[[Html]PNG轉ICO--bat檔](https://github.com/HKMUTangChungMing/onvert_png_to_ico)『Private』<br>
-09.[[Windows APP]夾公仔機](https://github.com/HKMUTangChungMing/Chiikawa_Claw-Machine)『Public』<br>
+09.[[Windows APP]夾公仔機](https://github.com/HKMUTangChungMing/Chiikawa_Claw-Machine)『Private』<br>
 
 
 </td><td valign="top" width="500px">
