@@ -28,9 +28,8 @@
 04.[[Micro-bit]MQTT在Micro-bit數據傳輸](https://github.com/HKMUTangChungMing/Micro-bit_HIVEMQ_MQTT)『Private』<br>
 05.[[APP_Android]Data傳取FireBase](https://github.com/HKMUTangChungMing/AndroidStudio_FireBase)『Private』<br>
 06.[[WebServer]Photo相簿](https://github.com/HKMUTangChungMing/Photography)『Private』<br>
-07.[[Windows APP]Chiikawa_DeskCloth桌布](https://github.com/HKMUTangChungMing/Chiikawa_DeskCloth)『Public』<br>
-08.[[Windows APP]McDull_DeskCloth桌布](https://github.com/HKMUTangChungMing/McDull_DeskCloth)『Public』<br>
-09.[[Windows APP]Hachiware_DeskCloth桌布](https://github.com/HKMUTangChungMing/Hachiware_DeskCloth)『Public』<br>
+07.[[Windows APP]PyCharm_install](https://github.com/HKMUTangChungMing/PyCharm_install)『Public』<br>
+
 
 
 </td></tr><tr><td valign="top" width="500px">
@@ -97,6 +96,9 @@
 ### ----- other   --------
 01.[換卡模式](https://github.com/HKMUTangChungMing/Pokemon-CARD-Browser)『public』<br>
 02.[夾公仔機](https://github.com/HKMUTangChungMing/Chiikawa_Claw-Machine)『public』<br>
+03.[貪食蛇](https://github.com/HKMUTangChungMing/SnakeZZZ)『public』<br>
+
+
 
 
 
