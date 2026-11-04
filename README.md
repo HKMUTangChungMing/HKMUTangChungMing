@@ -83,7 +83,11 @@
 </td></tr><tr><td valign="top" width="500px">
 
 ### ----- 桌布系列   --------
-
+01.[McDull](https://github.com/HKMUTangChungMing/McDull_DeskCloth)『public』<br>
+02.[Chiikawa](https://github.com/HKMUTangChungMing/Chiikawa_DeskCloth)『public』<br>
+03.[Hachiware](https://github.com/HKMUTangChungMing/Hachiware_DeskCloth)『public』<br>
+04.[Usagi](https://github.com/HKMUTangChungMing/chiikawa-Usagi_DeskCloth)『public』<br>
+05.[Loki](https://github.com/HKMUTangChungMing/Loki_DeskCloth)『public』<br>
 
 
 </td><td valign="top" width="500px">
@@ -91,7 +95,8 @@
 
 
 ### ----- other   --------
-
+01.[換卡模式](https://github.com/HKMUTangChungMing/Pokemon-CARD-Browser)『public』<br>
+02.[夾公仔機](https://github.com/HKMUTangChungMing/Chiikawa_Claw-Machine)『public』<br>
 
 
 
