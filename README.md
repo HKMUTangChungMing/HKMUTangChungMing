@@ -82,11 +82,11 @@
 </td></tr><tr><td valign="top" width="500px">
 
 ### ----- 桌布系列   --------
-01.[McDull](https://github.com/HKMUTangChungMing/McDull_DeskCloth)『public』<br>
-02.[Chiikawa](https://github.com/HKMUTangChungMing/Chiikawa_DeskCloth)『public』<br>
-03.[Hachiware](https://github.com/HKMUTangChungMing/Hachiware_DeskCloth)『public』<br>
-04.[Usagi](https://github.com/HKMUTangChungMing/chiikawa-Usagi_DeskCloth)『public』<br>
-05.[Loki](https://github.com/HKMUTangChungMing/Loki_DeskCloth)『public』<br>
+01.[McDull](https://github.com/HKMUTangChungMing/McDull_DeskCloth)『Private』<br>
+02.[Chiikawa](https://github.com/HKMUTangChungMing/Chiikawa_DeskCloth)『Private』<br>
+03.[Hachiware](https://github.com/HKMUTangChungMing/Hachiware_DeskCloth)『Private』<br>
+04.[Usagi](https://github.com/HKMUTangChungMing/chiikawa-Usagi_DeskCloth)『Private』<br>
+05.[Loki](https://github.com/HKMUTangChungMing/Loki_DeskCloth)『Private』<br>
 
 
 </td><td valign="top" width="500px">
@@ -94,9 +94,9 @@
 
 
 ### ----- other   --------
-01.[換卡模式](https://github.com/HKMUTangChungMing/Pokemon-CARD-Browser)『public』<br>
-02.[夾公仔機](https://github.com/HKMUTangChungMing/Chiikawa_Claw-Machine)『public』<br>
-03.[貪食蛇](https://github.com/HKMUTangChungMing/SnakeZZZ)『public』<br>
+01.[換卡模式](https://github.com/HKMUTangChungMing/Pokemon-CARD-Browser)『Private』<br>
+02.[夾公仔機](https://github.com/HKMUTangChungMing/Chiikawa_Claw-Machine)『Private』<br>
+03.[貪食蛇](https://github.com/HKMUTangChungMing/SnakeZZZ)『Private』<br>
 
 
 
